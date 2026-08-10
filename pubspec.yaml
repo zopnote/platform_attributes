@@ -1,0 +1,7 @@
+name: platform_attributes
+description: Dart package to describe native platforms.
+version: 0.1.0
+repository: https://github.com/zopnote/platform_attributes
+
+environment:
+  sdk: ^3.10.6
